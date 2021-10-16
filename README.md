@@ -6,11 +6,12 @@ git clone https://github.com/sfandrianah/tugas-detik.git
 ```
 
 2. lakukan terminal run
-```bash
+```console
 php detik-cli run
 ```
 setelah dijalankan akan otomatis melakukan konfigurasi db
-```bash
+```console
+mac@192 tugas-detik % php detik-cli run
 Please Configuration Database for running this application.
 DB Host (127.0.0.1) = 127.0.0.1 //Your DB Host
 DB Port (3306) = 3306 // Your DB Port
