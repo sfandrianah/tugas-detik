@@ -1,0 +1,8 @@
+[
+  {
+    "type": "GET",
+    "path": "/payment",
+    "file": "app/controllers/PaymentController.php",
+    "method": "find"
+  }
+]
